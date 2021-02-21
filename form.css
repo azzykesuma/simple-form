@@ -1,0 +1,8 @@
+#table{
+    border: 1px solid green;
+    padding: 5px;
+}
+#table td,#table th {
+    border: 1px solid green;
+    padding: 5px;
+}

@@ -1,2 +1,1 @@
-# simple-form
-a very simple form. will add more function in the following weeks
+this is a very simple and silly form. it doesnt event have  numbers and reset function. this is my first experience makingn form in react.

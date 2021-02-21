@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: cornflowerblue;
+  margin: 50px;
+}
+.formSize {
+  height: 20px;
+  width: 150px; 
+  font-size: 1rem;
+  border-radius: 5px;
+  transition: 0.5s;
+  margin: 5px;
+}
+.formSize:hover{
+  width: 180px
+}
+
+.formSize:focus {
+  background-color: firebrick;
+}
+.submit {
+  width: 90px;
+  height: 20px;
+  background-color: gold;
+  cursor: pointer;
+  transition: 0.5s ;
+}
+.submit:hover {
+  background-color: red;
+}
